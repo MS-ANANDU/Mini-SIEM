@@ -1,0 +1,6 @@
+Oct 15 10:00:01 kali sshd[1234]: Failed password for root from 192.168.1.50 port 4444 ssh2
+Oct 15 10:00:02 kali sshd[1234]: Failed password for root from 192.168.1.50 port 4444 ssh2
+Oct 15 10:00:03 kali sshd[1234]: Failed password for root from 192.168.1.50 port 4444 ssh2
+Oct 15 10:00:04 kali sshd[1234]: Failed password for root from 192.168.1.50 port 4444 ssh2
+Oct 15 10:00:05 kali sshd[1234]: Failed password for root from 192.168.1.50 port 4444 ssh2
+Oct 15 10:00:06 kali sshd[1234]: Failed password for root from 192.168.1.50 port 4444 ssh2
